@@ -4,6 +4,6 @@ description:  Linda's Hello World
 keywords:
   - hello
 properties:
-  name: myname
-  type: string
-  required: false
+  - name: myname
+    type: string
+    required: false
