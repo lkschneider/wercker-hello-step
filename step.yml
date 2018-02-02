@@ -1,9 +1,9 @@
-name: hello-world
+name: wercker-hello-world
 version: 0.1.1
-description:  Linda's Hello World
-keywords:
+summary:  Linda's Hello World
+tags:
   - hello
 properties:
-  - name: myname
-    type: string
-    required: false
+- name: myname
+  type: string
+  required: false
