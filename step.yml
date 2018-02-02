@@ -1,0 +1,9 @@
+name: hello-world
+version: 0.1.0
+description:  Linda's Hello World
+keywords:
+  - hello
+properties:
+  name: myname
+  type: string
+  required: false
